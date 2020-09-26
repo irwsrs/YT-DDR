@@ -17,3 +17,6 @@ Generally if the outputs are ~90-120 BPM for normal tempo, or 120-160 for fast t
 
 Tested with hundreds of tracks of varying genres.  
 YMMV
+
+Obligatory disclaimer: YouTube doesn't like you converting videos to MP3s.  
+"Do not use for bad."
