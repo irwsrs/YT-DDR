@@ -13,6 +13,7 @@ If playlist, check /output to make sure all songs were converted
 
 Your new Stepmania songs are now in your /output folder 🤩
 
-Generally if the outputs are ~90-120 BPM for normal tempo, or 120-160 for fast tempo, the song is playable. About half to two-thirds of songs come out well. You can also set BPM manually with Autostepper. But if you're doing that, you probably don't need these helper scripts.  
+Generally if the outputs are ~90-120 BPM for normal tempo, or 120-160 for fast tempo, the song is playable. About half to two-thirds of songs come out well. You can also set BPM manually with Autostepper. But if you're doing that, you probably don't need these helper scripts.
+
 Tested with hundreds of tracks of varying genres.  
 YMMV
